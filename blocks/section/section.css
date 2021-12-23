@@ -11,12 +11,6 @@
     }
 }
 
-@media screen and (max-width: 896px) {
-    .section {
-        padding: 28px 0px 0;
-    }
-}
-
 @media screen and (max-width: 680px) {
     .section {
         padding: 16px 0 0;

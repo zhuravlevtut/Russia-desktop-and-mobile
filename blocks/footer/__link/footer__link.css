@@ -5,6 +5,11 @@
     font-family: Inter, sans-serif;
     font-size: 16px;
     line-height: 18px;
+    transition: opacity 0.4s ease-in-out;
+}
+
+.footer__link:hover {
+    opacity: 80%;
 }
 
 @media screen and (max-width: 680px) {

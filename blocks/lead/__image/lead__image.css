@@ -1,11 +1,12 @@
 .lead__image {
     width: 100%;
     object-fit: cover;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1152px) {
     .lead__image {
-        max-width: 928px;
+        max-width: 100%;
         padding-right: 48px;
         padding-left: 48px;
     }
@@ -13,17 +14,7 @@
 
 @media screen and (max-width: 896px) {
     .lead__image {
-        max-width: 768px;
         padding-right: 0;
         padding-left: 0;
     }
-}
-
-@media screen and (max-width: 680px) {
-    .lead__image {
-        max-width: 320px;
-        padding-right: 0;
-        padding-left: 0;
-    }
-
 }

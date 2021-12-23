@@ -1,7 +1,7 @@
 .intro__caption {
     font-size: 12px;
-    font-weight: 900;
-    font-family: Inter;
+    font-weight: bold;
+    font-family: Inter, sans-serif;
     line-height: 18px;
     max-width: 690px;
     list-style-type: none;

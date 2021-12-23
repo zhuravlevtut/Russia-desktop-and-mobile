@@ -3,7 +3,7 @@
     text-align: center;
     font-size: 96px;
     line-height: 100px;
-    font-weight: bold;
+    font-weight: 900;
     max-width: 720px;
     font-family: Inter;
     margin-bottom: 32px;
@@ -23,7 +23,7 @@
     }
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 740px) {
     .lead__title {
         max-width: 288px;
         font-size: 40px;
